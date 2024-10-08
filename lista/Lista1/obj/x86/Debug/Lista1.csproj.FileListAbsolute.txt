@@ -1,0 +1,40 @@
+C:\Users\PC9\AppData\Local\Temporary Projects\Lista1\bin\Debug\Lista1.exe
+C:\Users\PC9\AppData\Local\Temporary Projects\Lista1\bin\Debug\Lista1.pdb
+C:\Users\PC9\AppData\Local\Temporary Projects\Lista1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC9\AppData\Local\Temporary Projects\Lista1\obj\x86\Debug\Lista1.Form1.resources
+C:\Users\PC9\AppData\Local\Temporary Projects\Lista1\obj\x86\Debug\Lista1.Properties.Resources.resources
+C:\Users\PC9\AppData\Local\Temporary Projects\Lista1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PC9\AppData\Local\Temporary Projects\Lista1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PC9\AppData\Local\Temporary Projects\Lista1\obj\x86\Debug\Lista1.exe
+C:\Users\PC9\AppData\Local\Temporary Projects\Lista1\obj\x86\Debug\Lista1.pdb
+C:\Users\PC9\documents\visual studio 2010\Projects\Lista1\Lista1\obj\x86\Debug\Lista1.exe
+C:\Users\PC9\documents\visual studio 2010\Projects\Lista1\Lista1\obj\x86\Debug\Lista1.pdb
+G:\Lista1\Lista1\obj\x86\Debug\Lista1.exe
+G:\Lista1\Lista1\obj\x86\Debug\Lista1.pdb
+F:\Lista1\Lista1\obj\x86\Debug\Lista1.exe
+F:\Lista1\Lista1\obj\x86\Debug\Lista1.pdb
+C:\Users\PC8\Desktop\Lista1\Lista1\obj\x86\Debug\Lista1.exe
+C:\Users\PC8\Desktop\Lista1\Lista1\obj\x86\Debug\Lista1.pdb
+C:\Users\PC8\Desktop\Lista1\Lista1\bin\Debug\Lista1.exe
+C:\Users\PC8\Desktop\Lista1\Lista1\bin\Debug\Lista1.pdb
+C:\Users\PC8\Desktop\Lista1\Lista1\obj\x86\Debug\Lista1.Form1.resources
+C:\Users\PC8\Desktop\Lista1\Lista1\obj\x86\Debug\Lista1.Properties.Resources.resources
+C:\Users\PC8\Desktop\Lista1\Lista1\obj\x86\Debug\Lista1.csproj.GenerateResource.Cache
+H:\expo\Lista1\obj\x86\Debug\Lista1.exe
+H:\expo\Lista1\obj\x86\Debug\Lista1.pdb
+H:\expo\Lista1\bin\Debug\Lista1.exe
+H:\expo\Lista1\bin\Debug\Lista1.pdb
+H:\expo\Lista1\obj\x86\Debug\Lista1.csprojResolveAssemblyReference.cache
+H:\expo\Lista1\obj\x86\Debug\Lista1.Form1.resources
+H:\expo\Lista1\obj\x86\Debug\Lista1.Properties.Resources.resources
+H:\expo\Lista1\obj\x86\Debug\Lista1.csproj.GenerateResource.Cache
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\expo\Lista1\bin\Debug\Lista1.exe.config
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\expo\Lista1\bin\Debug\Lista1.exe
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\expo\Lista1\bin\Debug\Lista1.pdb
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\expo\Lista1\obj\x86\Debug\Lista1.csproj.AssemblyReference.cache
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\expo\Lista1\obj\x86\Debug\Lista1.Form1.resources
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\expo\Lista1\obj\x86\Debug\Lista1.Properties.Resources.resources
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\expo\Lista1\obj\x86\Debug\Lista1.csproj.GenerateResource.cache
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\expo\Lista1\obj\x86\Debug\Lista1.csproj.CoreCompileInputs.cache
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\expo\Lista1\obj\x86\Debug\Lista1.exe
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\expo\Lista1\obj\x86\Debug\Lista1.pdb
